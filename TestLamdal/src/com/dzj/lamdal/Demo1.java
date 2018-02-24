@@ -14,7 +14,7 @@ public class Demo1 {
 		String bb="asas";
 		System.out.println(aa==bb);
 		System.out.println("asas");
-		
+		System.out.println("222");
 	}
 	
 	public void test() {
